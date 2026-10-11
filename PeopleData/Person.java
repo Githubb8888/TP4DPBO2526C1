@@ -3,7 +3,7 @@ public class Person {
     private String nama;
     private int tahunLahir;
     private String kategori;
-    private String kota; // новый атрибут
+    private String kota;
 
     public Person(String id, String nama, int tahunLahir, String kategori, String kota) {
         this.id = id;
