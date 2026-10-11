@@ -27,4 +27,4 @@ Fitur tambahan:
 
 ## Dokumentasi
 
-PeopleData/Dokumentasi/Screen Recording tp4.
+PeopleData/Dokumentasi/Screen Recording tp4.mov
